@@ -5,3 +5,4 @@ print("Hello World")
      return result
  
  calcl(1,2)
+ print(calcl(1, 2))
